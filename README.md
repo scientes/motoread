@@ -7,4 +7,10 @@ image libary donwload: https://pillow.readthedocs.io/en/latest/
 
 text to speech libary:https://pypi.python.org/pypi/pyttsx3/2.6
 
-mysqllibary: debian install: sudo apt-get install python-mysqldb
+(mysqllibary: debian install: sudo apt-get install python-mysqldb) sqllite(vorinstalliert)
+
+tensorflow
+
+manueller numpy build
+
+
