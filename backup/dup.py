@@ -1,6 +1,8 @@
-import os, sys
 import hashlib
- 
+import os
+import sys
+
+
 def findDup(parentFolder):
     # Dups in format {hash:[names]}
     dups = {}
@@ -42,7 +44,6 @@ def move(src,dst):
         os.system ("mv"+ " " +dir_path+"/"+ src + " " +dir_path+"/"+ dst) 
  
 def printResults(dict1):
-    import shutil
     results = list(filter(lambda x: len(x) > 1, dict1.values()))
     if len(results) > 0:
         print('Duplicates Found:')

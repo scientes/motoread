@@ -1,0 +1,64 @@
+
+===== Welcome to the IOTA Spam Fund Java Client v1.0.14 =====
+[21:32:28] [Configs]   [DBG] loading configurations
+[21:32:28] [Configs]   [DBG] configurations saved successfully
+[21:32:28] [Configs]   [DBG] configurations loaded successfully
+[21:32:28] [Main]      [WRN] skipping 'looking for updates' because of auto start (program was started with option '-autostart')
+[21:32:28] [Main]      [WRN] you are in spamnet mode, so make sure to connect exclusively to spamnet nodes
+[21:32:29] [Main]      [WRN] you are in offline mode, therefore you won't receive rewards for your spam
+
+do you want to download an optimized GO proof-of-work module and increase your spam performance by approx. 50-100%? [y/n; yes/no]
+[21:32:39] [GOldDggr]  [ERR] user refused to download go pow module, will use low-performing java proof-of-work module instead
+[21:32:40] [NodeMngr]  [DBG] downloading remote third party node list
+[21:32:41] [NodeMngr]  [DBG] node list includes 5 nodes
+[21:32:41] [Main]      [DBG] waiting until connection to any iota api is established
+[21:32:47] [TimeAbrt]  [WRN] action 'connecting to node' took too long and was aborted after 6 seconds
+[21:32:47] [TimeAbrt]  [WRN] action 'connecting to node' took too long and was aborted after 6 seconds
+[21:32:47] [TimeAbrt]  [WRN] action 'connecting to node' took too long and was aborted after 6 seconds
+[21:32:47] [TimeAbrt]  [WRN] action 'connecting to node' took too long and was aborted after 6 seconds
+[21:32:47] [TimeAbrt]  [WRN] action 'connecting to node' took too long and was aborted after 6 seconds
+[21:32:50] [NodeMngr]  [DBG] waiting until connection to any iota api is established
+[21:32:50] [NodeMngr]  [DBG] waiting until connection to any iota api is established
+[21:32:50] [NodeMngr]  [DBG] waiting until connection to any iota api is established
+[21:32:50] [NodeMngr]  [DBG] waiting until connection to any iota api is established
+[21:32:50] [NodeMngr]  [DBG] waiting until connection to any iota api is established
+[21:32:54] [NodeMngr]  [DBG] node 'https://nodes.spamnet.iota.org:443' [2] is not synced (did not receive getNodeInfo response within 6 seconds), changing node
+[21:32:54] [NodeMngr]  [DBG] node 'https://nodes.spamnet.iota.org:443' [3] is not synced (did not receive getNodeInfo response within 6 seconds), changing node
+[21:32:54] [NodeMngr]  [DBG] node 'https://nodes.spamnet.iota.org:443' [0] is not synced (did not receive getNodeInfo response within 6 seconds), changing node
+[21:32:54] [NodeMngr]  [DBG] node 'https://nodes.spamnet.iota.org:443' [4] is not synced (did not receive getNodeInfo response within 6 seconds), changing node
+[21:32:56] [NodeMngr]  [DBG] node 'https://nodes.spamnet.iota.org:443' [1] is not synced (did not receive getNodeInfo response within 6 seconds), changing node
+[21:32:57] [NodeMngr]  [DBG] waiting until connection to any iota api is established
+[21:32:57] [NodeMngr]  [DBG] waiting until connection to any iota api is established
+[21:32:57] [NodeMngr]  [DBG] waiting until connection to any iota api is established
+[21:32:57] [NodeMngr]  [DBG] waiting until connection to any iota api is established
+[21:32:59] [NodeMngr]  [DBG] waiting until connection to any iota api is established
+[21:33:03] [NodeMngr]  [DBG] node 'https://nodes.spamnet.iota.org:443' [3] is not synced (did not receive getNodeInfo response within 6 seconds), changing node
+[21:33:03] [NodeMngr]  [DBG] node 'https://nodes.spamnet.iota.org:443' [0] is not synced (did not receive getNodeInfo response within 6 seconds), changing node
+[21:33:03] [NodeMngr]  [DBG] node 'https://nodes.spamnet.iota.org:443' [4] is not synced (did not receive getNodeInfo response within 6 seconds), changing node
+[21:33:03] [NodeMngr]  [DBG] node 'https://nodes.spamnet.iota.org:443' [2] is not synced (did not receive getNodeInfo response within 6 seconds), changing node
+[21:33:05] [NodeMngr]  [DBG] node 'https://nodes.spamnet.iota.org:443' [1] is not synced (did not receive getNodeInfo response within 6 seconds), changing node
+[21:33:06] [NodeMngr]  [DBG] waiting until connection to any iota api is established
+[21:33:06] [NodeMngr]  [DBG] waiting until connection to any iota api is established
+[21:33:06] [NodeMngr]  [DBG] waiting until connection to any iota api is established
+[21:33:06] [NodeMngr]  [DBG] waiting until connection to any iota api is established
+[21:33:08] [NodeMngr]  [DBG] waiting until connection to any iota api is established
+[21:33:12] [NodeMngr]  [DBG] node 'https://nodes.spamnet.iota.org:443' [3] is not synced (did not receive getNodeInfo response within 6 seconds), changing node
+[21:33:12] [NodeMngr]  [DBG] node 'https://nodes.spamnet.iota.org:443' [0] is not synced (did not receive getNodeInfo response within 6 seconds), changing node
+[21:33:12] [NodeMngr]  [DBG] node 'https://nodes.spamnet.iota.org:443' [2] is not synced (did not receive getNodeInfo response within 6 seconds), changing node
+[21:33:12] [NodeMngr]  [DBG] node 'https://nodes.spamnet.iota.org:443' [4] is not synced (did not receive getNodeInfo response within 6 seconds), changing node
+[21:33:14] [NodeMngr]  [DBG] node 'https://nodes.spamnet.iota.org:443' [1] is not synced (did not receive getNodeInfo response within 6 seconds), changing node
+[21:33:15] [NodeMngr]  [DBG] waiting until connection to any iota api is established
+[21:33:15] [NodeMngr]  [DBG] waiting until connection to any iota api is established
+[21:33:15] [NodeMngr]  [DBG] waiting until connection to any iota api is established
+[21:33:15] [NodeMngr]  [DBG] waiting until connection to any iota api is established
+[21:33:17] [NodeMngr]  [DBG] waiting until connection to any iota api is established
+[21:33:21] [NodeMngr]  [DBG] node 'https://nodes.spamnet.iota.org:443' [3] is not synced (did not receive getNodeInfo response within 6 seconds), changing node
+[21:33:21] [NodeMngr]  [DBG] node 'https://nodes.spamnet.iota.org:443' [0] is not synced (did not receive getNodeInfo response within 6 seconds), changing node
+[21:33:21] [NodeMngr]  [DBG] node 'https://nodes.spamnet.iota.org:443' [2] is not synced (did not receive getNodeInfo response within 6 seconds), changing node
+[21:33:21] [NodeMngr]  [DBG] node 'https://nodes.spamnet.iota.org:443' [4] is not synced (did not receive getNodeInfo response within 6 seconds), changing node
+[21:33:23] [NodeMngr]  [DBG] node 'https://nodes.spamnet.iota.org:443' [1] is not synced (did not receive getNodeInfo response within 6 seconds), changing node
+[21:33:24] [NodeMngr]  [DBG] waiting until connection to any iota api is established
+[21:33:24] [NodeMngr]  [DBG] waiting until connection to any iota api is established
+[21:33:24] [NodeMngr]  [DBG] waiting until connection to any iota api is established
+[21:33:24] [NodeMngr]  [DBG] waiting until connection to any iota api is established
+[21:33:27] [NodeMngr]  [DBG] waiting until connection to any iota api is established
